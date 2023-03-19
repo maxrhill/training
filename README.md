@@ -13,4 +13,4 @@
   
 - codecademy: [Create Video Games with Phaser.js Module 2](https://www.codecademy.com/learn/paths/create-video-games-with-phaser)
     
-- [ ] Learn JavaScript: Functions
+- [X] Learn JavaScript: Functions
