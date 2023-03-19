@@ -2,7 +2,7 @@
 <details>
  <summary>3/17/23</summary>  
   
-- codecademy: [Create Video Games with Phaser.js](https://www.codecademy.com/learn/paths/create-video-games-with-phaser)  
+- codecademy: [Create Video Games with Phaser.js, Learn JavaScript: Functions](https://www.codecademy.com/learn/paths/create-video-games-with-phaser)  
   
 - [ ] module 2  
   
@@ -11,6 +11,6 @@
 <details>
   <summary>3/19/23</summary>
   
-- codecademy: [Create Video Games with Phaser.js](https://www.codecademy.com/learn/paths/create-video-games-with-phaser)  
+- codecademy: [Create Video Games with Phaser.js, Learn JavaScript: Functions](https://www.codecademy.com/learn/paths/create-video-games-with-phaser)  
     
 - [ ] module 2
