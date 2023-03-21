@@ -7,6 +7,8 @@
     
 - [X] Learn JavaScript: Functions
 
+  </details>
+  
 <details>
  <summary>3/17/23</summary>  
   
