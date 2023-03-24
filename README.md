@@ -1,12 +1,22 @@
 # training
 
 <details>
-  <summary>3/22/23</summary>
+  <summary>3/24/23</summary>
   
 - codecademy: [Create Video Games with Phaser.js Module 2](https://www.codecademy.com/learn/paths/create-video-games-with-phaser)
     
 - [ ] Learn JavaScript: Scope
 
+  </details>
+
+<details>
+  <summary>3/23/23</summary>
+  
+  </details>
+
+<details>
+  <summary>3/22/23</summary>
+  
   </details>
 
 <details>
