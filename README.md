@@ -1,6 +1,30 @@
 # training
 
 <details>
+  <summary>3/28/23</summary>
+    
+- Microsoft Learn: [Microsoft Azure Fundamentals: Describe cloud concepts](https://learn.microsoft.com/en-us/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts/)  
+  
+- [ ] Describe cloud computing
+
+  </details>
+
+<details>
+  <summary>3/27/23</summary>
+   
+  </details>
+  
+<details>
+  <summary>3/26/23</summary>
+   
+  </details>
+  
+<details>
+  <summary>3/25/23</summary>
+
+  </details>
+  
+<details>
   <summary>3/24/23</summary>
   
 - codecademy: [Create Video Games with Phaser.js Module 2](https://www.codecademy.com/learn/paths/create-video-games-with-phaser)
