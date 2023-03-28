@@ -5,8 +5,10 @@
     
 - Microsoft Learn: [Microsoft Azure Fundamentals: Describe cloud concepts](https://learn.microsoft.com/en-us/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts/)  
   
-- [ ] Describe cloud computing
-
+- [x] Describe cloud computing
+- [x] Describe the benefits of using cloud services
+- [x] Describe cloud service types
+  
   </details>
 
 <details>
