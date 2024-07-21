@@ -2,7 +2,7 @@
 <details>
   <summary>7/21/24</summary>
 
-- Coursera: [The Bits and Bytes of Computer Networking](https://www.coursera.org/learn/computer-networking/home/module/3)
+- Coursera: [Operating Systems and You: Becoming a Power User](https://www.coursera.org/learn/os-power-user/home/module/1)
 
 - [x] Modules 1-3
 
@@ -11,7 +11,7 @@
 <details>
   <summary>7/20/24</summary>
 
-- Coursera: [The Bits and Bytes of Computer Networking](https://www.coursera.org/learn/computer-networking/home/module/3)
+- Coursera: [The Bits and Bytes of Computer Networking](https://www.coursera.org/learn/computer-networking/home/module/6)
 
 - [x] Module 6
 
@@ -20,7 +20,7 @@
 <details>
   <summary>7/19/24</summary>
 
-- Coursera: [The Bits and Bytes of Computer Networking](https://www.coursera.org/learn/computer-networking/home/module/3)
+- Coursera: [The Bits and Bytes of Computer Networking](https://www.coursera.org/learn/computer-networking/home/module/5)
 
 - [x] Module 5
 
