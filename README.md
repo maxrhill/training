@@ -1,5 +1,40 @@
 # training
+<details>
+  <summary>7/21/24</summary>
 
+- Coursera: [The Bits and Bytes of Computer Networking](https://www.coursera.org/learn/computer-networking/home/module/3)
+
+- [x] Modules 1-3
+
+  </details>
+  
+<details>
+  <summary>7/20/24</summary>
+
+- Coursera: [The Bits and Bytes of Computer Networking](https://www.coursera.org/learn/computer-networking/home/module/3)
+
+- [x] Module 6
+
+  </details>
+  
+<details>
+  <summary>7/19/24</summary>
+
+- Coursera: [The Bits and Bytes of Computer Networking](https://www.coursera.org/learn/computer-networking/home/module/3)
+
+- [x] Module 5
+
+  </details>
+  
+<details>
+  <summary>7/18/24</summary>
+
+- Coursera: [The Bits and Bytes of Computer Networking](https://www.coursera.org/learn/computer-networking/home/module/3)
+
+- [x] Modules 3-4
+
+  </details>
+  
 <details>
   <summary>3/28/23</summary>
     
