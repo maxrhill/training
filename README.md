@@ -1,8 +1,63 @@
 # training
+        
+<details>
+  <summary>7/31/24</summary>
+
+- Coursera: [System Administration and IT Infrastructure Services](https://www.coursera.org/learn/system-administration-it-infrastructure-services/home/module/6)
+
+- [ ] Module 6
+
+  </details>
+  
+<details>
+  <summary>7/30/24</summary>
+
+- Coursera: [System Administration and IT Infrastructure Services](https://www.coursera.org/learn/system-administration-it-infrastructure-services/home/module/5)
+
+- [x] Module 5
+
+  </details>
+  
+<details>
+  <summary>7/29/24</summary>
+
+- Coursera: [System Administration and IT Infrastructure Services](https://www.coursera.org/learn/system-administration-it-infrastructure-services/home/module/4)
+
+- [x] Module 4
+
+  </details>
+  
+<details>
+  <summary>7/28/24</summary>
+
+- Coursera: [System Administration and IT Infrastructure Services](https://www.coursera.org/learn/system-administration-it-infrastructure-services/home/module/3)
+
+- [x] Module 3
+
+  </details>
+    
+<details>
+  <summary>7/27/24</summary>
+
+- Coursera: [System Administration and IT Infrastructure Services](https://www.coursera.org/learn/system-administration-it-infrastructure-services/home/module/2)
+
+- [x] Module 2
+
+  </details>
+    
+<details>
+  <summary>7/26/24</summary>
+
+- Coursera: [System Administration and IT Infrastructure Services](https://www.coursera.org/learn/system-administration-it-infrastructure-services/home/module/1)
+
+- [x] Module 1 
+
+  </details>
+  
 <details>
   <summary>7/25/24</summary>
 
-- Coursera: [Operating Systems and You: Becoming a Power User](https://www.coursera.org/learn/os-power-user/home/module/1)
+- Coursera: [Operating Systems and You: Becoming a Power User](https://www.coursera.org/learn/os-power-user/home/module/6)
 
 - [x] Module 6
 
@@ -11,7 +66,7 @@
 <details>
   <summary>7/24/24</summary>
 
-- Coursera: [Operating Systems and You: Becoming a Power User](https://www.coursera.org/learn/os-power-user/home/module/1)
+- Coursera: [Operating Systems and You: Becoming a Power User](https://www.coursera.org/learn/os-power-user/home/module/5)
 
 - [x] Module 5
 
@@ -20,7 +75,7 @@
 <details>
   <summary>7/23/24</summary>
 
-- Coursera: [Operating Systems and You: Becoming a Power User](https://www.coursera.org/learn/os-power-user/home/module/1)
+- Coursera: [Operating Systems and You: Becoming a Power User](https://www.coursera.org/learn/os-power-user/home/module/4)
 
 - [x] Module 4
 
@@ -29,7 +84,7 @@
 <details>
   <summary>7/22/24</summary>
 
-- Coursera: [Operating Systems and You: Becoming a Power User](https://www.coursera.org/learn/os-power-user/home/module/1)
+- Coursera: [Operating Systems and You: Becoming a Power User](https://www.coursera.org/learn/os-power-user/home/module/3)
 
 - [x] Module 3
 
