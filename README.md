@@ -1,6 +1,33 @@
 # training
         
 <details>
+  <summary>8/3/24</summary>
+
+- Coursera: [IT Security: Defense against the digital dark arts](https://www.coursera.org/learn/it-security/home/module/3)
+
+- [ ] Module 3
+
+  </details>
+                  
+<details>
+  <summary>8/2/24</summary>
+
+- Coursera: [IT Security: Defense against the digital dark arts](https://www.coursera.org/learn/it-security/home/module/2)
+
+- [ ] Module 2
+
+  </details>
+                  
+<details>
+  <summary>8/1/24</summary>
+
+- Coursera: [IT Security: Defense against the digital dark arts](https://www.coursera.org/learn/it-security/home/module/1)
+
+- [ ] Module 1
+
+  </details>
+          
+<details>
   <summary>7/31/24</summary>
 
 - Coursera: [System Administration and IT Infrastructure Services](https://www.coursera.org/learn/system-administration-it-infrastructure-services/home/module/6)
