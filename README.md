@@ -32,7 +32,7 @@
 
 - Coursera: [System Administration and IT Infrastructure Services](https://www.coursera.org/learn/system-administration-it-infrastructure-services/home/module/6)
 
-- [ ] Module 6
+- [x] Module 6
 
   </details>
   
