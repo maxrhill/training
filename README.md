@@ -14,7 +14,7 @@
 
 - Coursera: [IT Security: Defense against the digital dark arts](https://www.coursera.org/learn/it-security/home/module/2)
 
-- [ ] Module 2
+- [x] Module 2
 
   </details>
                   
@@ -23,7 +23,7 @@
 
 - Coursera: [IT Security: Defense against the digital dark arts](https://www.coursera.org/learn/it-security/home/module/1)
 
-- [ ] Module 1
+- [x] Module 1
 
   </details>
           
